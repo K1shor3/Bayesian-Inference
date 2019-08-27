@@ -1,4 +1,5 @@
 * Go to PSET2-EE16B070.ipynb for problem 1.
+* Collaborators: Siddharth Nayak
 
 ### Requirements:
 * graphviz
