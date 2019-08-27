@@ -1,4 +1,5 @@
 * Go to PSET2-EE16B070.ipynb for problem 1.
+* Tree Diagrams Obtained are at mi_10k.gv.pdf and mi_jvhw_10k.gv.pdf
 * Collaborators: Siddharth Nayak
 
 ### Requirements:
