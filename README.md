@@ -1,12 +1,11 @@
 ### What this be?
-we will
-use the ALARM (A Logical Alarm Reduction Mechanism) dataset [1] to infer a consistent Bayesian Network underlying a complex medical dataset. This Bayes-Net can
+We will
+use the ALARM (A Logical Alarm Reduction Mechanism) dataset to infer a consistent Bayesian Network underlying a complex medical dataset. This Bayes-Net can
 then be used for constructing a data-driven medical diagnostic system using inference
-algorithms, such as Belief-Propagation [2].
+algorithms, such as Belief-Propagation.
 Three type of variables are present in the ALARM dataset- diagnoses, measurements,
 and intermediate variables. After constructing a suitable probabilistic model, the resulting model can be used for automatically diagnosing a patient with a set of symptoms and test results. For details on the variables present in the dataset, please refer to
-the original paper [1] and the webpage https://rdrr.io/cran/bnlearn/man/alarm.
-html.
+the original paper and the webpage https://rdrr.io/cran/bnlearn/man/alarm.
 In this exercise, we will be estimating the most likely tree-structured probabilistic
 graphical model underlying the ALARM dataset.
 
